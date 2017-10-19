@@ -1,0 +1,133 @@
+﻿<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+    <h1>
+      Clock page
+      <small>This is clocking page. (This page is unusual)</small>
+    </h1>
+    <ol class="breadcrumb">
+      <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
+      <li class="active">Here</li>
+    </ol>
+  </section>
+
+  <!-- Main content -->
+  <section class="content">
+
+    <section class="content">
+    <!-- Small boxes (Stat box) -->
+    <div class="row">
+      <div class="col-lg-4 col-xs-6">
+        <!-- small box -->
+        <div class="small-box bg-aqua">
+          <div class="inner">
+            <h3>150</h3>
+            <p>Progress in work</p>
+          </div>
+          <div class="icon">
+            <i class="ion ion-clock"></i>
+          </div>
+          <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+        </div>
+      </div><!-- ./col -->
+      <div class="col-lg-4 col-xs-6">
+        <!-- small box -->
+        <div class="small-box bg-yellow">
+          <div class="inner">
+            <h3>44</h3>
+            <p>Brake for coffee</p>
+          </div>
+          <div class="icon">
+            <i class="ion ion-coffee"></i>
+          </div>
+          <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+        </div>
+      </div><!-- ./col -->
+      <div class="col-lg-4 col-xs-12">
+        <!-- small box -->
+        <div class="small-box bg-red">
+          <div class="inner">
+            <h3>65</h3>
+            <p>Brake for lunch</p>
+          </div>
+          <div class="icon">
+            <i class="ion ion-android-restaurant"></i>
+          </div>
+          <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+        </div>
+      </div><!-- ./col -->
+    </div><!-- /.row -->
+    <!-- buttons -->
+    <!-- Block buttons -->
+    <script>
+    function button_switch() {
+      if ( document.getElementById("clock_in").className.match(/(?:^|\s)hidden(?!\S)/) ) {
+	  document.getElementById("coffee_start_button").disabled = true;
+		document.getElementById("lunch_start_button").disabled = true;
+		document.getElementById("clock_out").className += " hidden";
+        document.getElementById("clock_in").className =
+          document.getElementById("clock_in").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      } else {
+		document.getElementById("coffee_start_button").disabled = false;
+		document.getElementById("lunch_start_button").disabled = false;
+        document.getElementById("clock_in").className += " hidden";
+        document.getElementById("clock_out").className =
+          document.getElementById("clock_out").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      }
+    }
+	
+	function button_switch_coffee() {
+      if ( document.getElementById("finish_coffee").className.match(/(?:^|\s)hidden(?!\S)/) ) {
+	  document.getElementById("clock_out_button").disabled = true;
+	  document.getElementById("lunch_start_button").disabled = true;
+		document.getElementById("start_coffee").className += " hidden";
+        document.getElementById("finish_coffee").className =
+          document.getElementById("finish_coffee").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      } else {
+	  document.getElementById("clock_out_button").disabled = false;
+	  document.getElementById("lunch_start_button").disabled = false;
+        document.getElementById("finish_coffee").className += " hidden";
+        document.getElementById("start_coffee").className =
+          document.getElementById("start_coffee").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      }
+    }
+	
+    function button_switch_lunch() {
+      if ( document.getElementById("finish_lunch").className.match(/(?:^|\s)hidden(?!\S)/) ) {
+	  document.getElementById("clock_out_button").disabled = true;
+	  document.getElementById("coffee_start_button").disabled = true;
+		document.getElementById("start_lunch").className += " hidden";
+        document.getElementById("finish_lunch").className =
+          document.getElementById("finish_lunch").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      } else {
+	  document.getElementById("clock_out_button").disabled = false;
+	  document.getElementById("coffee_start_button").disabled = false;
+        document.getElementById("finish_lunch").className += " hidden";
+        document.getElementById("start_lunch").className =
+          document.getElementById("start_lunch").className.replace
+          ( /(?:^|\s)hidden(?!\S)/g , '' )
+      }
+    }
+    </script>
+    <div class="box box-info">
+      <div class="box-header">
+        <h3 class="box-title">Clock in/out</h3>
+      </div>
+      <div class="box-body">
+        <div id="clock_in" class="margin_bottom col-lg-4 col-xs-6"><button onclick="button_switch()" class="btn btn-primary btn-block btn-sm">Clock in</button></div>
+        <div id="clock_out" class="margin_bottom hidden col-lg-4 col-xs-6"><button id="clock_out_button" onclick="button_switch()" class="btn btn-danger btn-block btn-sm">Clock out</button></div>
+        <div id="start_coffee"class="margin_bottom col-lg-4 col-xs-6"><button id="coffee_start_button" onclick="button_switch_coffee()" class="btn btn-success btn-block btn-sm" disabled>Coffee</button></div>
+		<div id="finish_coffee" class="margin_bottom hidden col-lg-4 col-xs-6"><button onclick="button_switch_coffee()" class="btn btn-danger btn-block btn-sm">Finish Coffee</button></div>
+        <div id="start_lunch" class="margin_bottom col-lg-4 col-xs-12"><button id="lunch_start_button" onclick="button_switch_lunch()" class="btn btn-warning btn-block btn-sm" disabled>Lunch</button></div>
+		<div id="finish_lunch" class="margin_bottom hidden col-lg-4 col-xs-12"><button onclick="button_switch_lunch()" class="btn btn-danger btn-block btn-sm">Finish Lunch</button></div>
+      </div>
+    </div><!-- /.box -->
+    <!-- /.buttons -->
+  </section><!-- /.content -->
+</div><!-- /.content-wrapper -->

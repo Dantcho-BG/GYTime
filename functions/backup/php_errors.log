@@ -1,0 +1,333 @@
+[13-May-2016 10:18:24 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 10:18:57 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 10:21:01 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 10:21:11 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 10:21:19 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 11:54:48 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[13-May-2016 12:51:34 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[20-May-2016 09:45:19 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\end_work_time.php on line 62
+[20-May-2016 09:57:06 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:57:06 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:57:31 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:57:31 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:57:49 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:57:49 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:58:29 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:58:29 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:58:32 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:58:32 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:58:33 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:58:33 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:58:37 Europe/London] PHP Notice:  Undefined index: end_work_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 46
+[20-May-2016 09:58:37 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:59:25 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 09:59:59 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 10:45:13 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\end_work_time.php on line 64
+[20-May-2016 10:45:13 Europe/London] PHP Notice:  Undefined variable: time_now in D:\sites\gytime\website\functions\end_work_time.php on line 69
+[20-May-2016 11:14:10 Europe/London] PHP Parse error:  syntax error, unexpected 'convertToHoursMins' (T_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 86
+[20-May-2016 11:14:14 Europe/London] PHP Parse error:  syntax error, unexpected 'convertToHoursMins' (T_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 86
+[20-May-2016 11:15:08 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 90
+[20-May-2016 11:15:08 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 90
+[20-May-2016 11:28:52 Europe/London] PHP Notice:  Undefined index: worked_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 44
+[20-May-2016 11:28:52 Europe/London] PHP Notice:  Undefined index: worked_time_min in D:\sites\gytime\website\functions\start_work_time.php on line 45
+[20-May-2016 11:28:52 Europe/London] PHP Notice:  Undefined variable: hr in D:\sites\gytime\website\functions\start_work_time.php on line 50
+[20-May-2016 11:28:56 Europe/London] PHP Notice:  Undefined index: worked_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 44
+[20-May-2016 11:28:56 Europe/London] PHP Notice:  Undefined index: worked_time_min in D:\sites\gytime\website\functions\start_work_time.php on line 45
+[20-May-2016 11:28:56 Europe/London] PHP Notice:  Undefined variable: hr in D:\sites\gytime\website\functions\start_work_time.php on line 50
+[20-May-2016 11:29:46 Europe/London] PHP Notice:  Trying to get property of non-object in D:\sites\gytime\website\functions\start_work_time.php on line 41
+[20-May-2016 11:29:46 Europe/London] PHP Notice:  Undefined variable: hr in D:\sites\gytime\website\functions\start_work_time.php on line 50
+[20-May-2016 11:29:46 Europe/London] PHP Notice:  Undefined variable: worked_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 59
+[20-May-2016 11:29:46 Europe/London] PHP Notice:  Undefined variable: worked_time_min in D:\sites\gytime\website\functions\start_work_time.php on line 59
+[20-May-2016 11:29:49 Europe/London] PHP Notice:  Trying to get property of non-object in D:\sites\gytime\website\functions\start_work_time.php on line 41
+[20-May-2016 11:29:49 Europe/London] PHP Notice:  Undefined variable: hr in D:\sites\gytime\website\functions\start_work_time.php on line 50
+[20-May-2016 11:29:49 Europe/London] PHP Notice:  Undefined variable: worked_time_hr in D:\sites\gytime\website\functions\start_work_time.php on line 59
+[20-May-2016 11:29:49 Europe/London] PHP Notice:  Undefined variable: worked_time_min in D:\sites\gytime\website\functions\start_work_time.php on line 59
+[20-May-2016 11:30:21 Europe/London] PHP Notice:  Undefined variable: hr in D:\sites\gytime\website\functions\start_work_time.php on line 50
+[20-May-2016 11:33:51 Europe/London] PHP Parse error:  syntax error, unexpected '$start_tiemr_from' (T_VARIABLE), expecting ',' or ';' in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 11:33:52 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 90
+[20-May-2016 11:33:54 Europe/London] PHP Parse error:  syntax error, unexpected '$start_tiemr_from' (T_VARIABLE), expecting ',' or ';' in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 11:34:20 Europe/London] PHP Notice:  Undefined variable: start_tiemr_from in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[20-May-2016 11:36:16 Europe/London] PHP Notice:  Undefined variable: work_time in D:\sites\gytime\website\functions\start_work_time.php on line 61
+[20-May-2016 11:41:29 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 92
+[20-May-2016 11:42:36 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 92
+[20-May-2016 11:44:41 Europe/London] PHP Notice:  Undefined variable: start_time in D:\sites\gytime\website\functions\end_work_time.php on line 57
+[20-May-2016 11:44:41 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 94
+[20-May-2016 11:45:01 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 94
+[20-May-2016 11:47:05 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 96
+[20-May-2016 11:48:48 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 11:48:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 11:49:27 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 11:49:57 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 11:49:58 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 14:13:44 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 95
+[20-May-2016 14:18:09 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 92
+[20-May-2016 14:18:31 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 92
+[20-May-2016 14:35:34 Europe/London] PHP Notice:  Undefined index: worked_time_mins in D:\sites\gytime\website\functions\end_work_time.php on line 99
+[20-May-2016 14:35:34 Europe/London] PHP Fatal error:  Cannot redeclare convertToHoursMins() (previously declared in D:\sites\gytime\website\functions\end_work_time.php:79) in D:\sites\gytime\website\functions\end_work_time.php on line 116
+[20-May-2016 14:38:16 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 120
+[20-May-2016 14:39:04 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 123
+[20-May-2016 14:39:50 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:40:44 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 122
+[20-May-2016 14:42:06 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:42:08 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:43:42 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 127
+[20-May-2016 14:43:44 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 127
+[20-May-2016 14:44:41 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:45:19 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:45:38 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:45:39 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:46:50 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 127
+[20-May-2016 14:47:35 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 127
+[20-May-2016 14:54:01 Europe/London] PHP Parse error:  syntax error, unexpected '*' in D:\sites\gytime\website\functions\end_work_time.php on line 125
+[20-May-2016 14:54:45 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 129
+[20-May-2016 14:56:15 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 131
+[20-May-2016 15:01:15 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 94
+[20-May-2016 15:01:44 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 93
+[20-May-2016 15:01:44 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 96
+[20-May-2016 15:01:44 Europe/London] PHP Notice:  Undefined offset: 3 in D:\sites\gytime\website\functions\end_work_time.php on line 132
+[20-May-2016 15:01:44 Europe/London] PHP Notice:  Undefined offset: 4 in D:\sites\gytime\website\functions\end_work_time.php on line 133
+[20-May-2016 15:02:04 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 93
+[20-May-2016 15:02:04 Europe/London] PHP Notice:  Undefined variable: worked_time_hr in D:\sites\gytime\website\functions\end_work_time.php on line 137
+[20-May-2016 15:02:04 Europe/London] PHP Notice:  Undefined variable: worked_time_min in D:\sites\gytime\website\functions\end_work_time.php on line 137
+[20-May-2016 15:03:40 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 93
+[20-May-2016 15:03:40 Europe/London] PHP Notice:  Undefined variable: worked_time_hr in D:\sites\gytime\website\functions\end_work_time.php on line 137
+[20-May-2016 15:03:40 Europe/London] PHP Notice:  Undefined variable: worked_time_min in D:\sites\gytime\website\functions\end_work_time.php on line 137
+[20-May-2016 15:04:49 Europe/London] PHP Notice:  Undefined offset: 2 in D:\sites\gytime\website\functions\end_work_time.php on line 93
+[20-May-2016 15:05:23 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 133
+[20-May-2016 15:08:04 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 133
+[20-May-2016 19:13:56 Europe/London] PHP Notice:  Undefined variable: already_checked_in_before in D:\sites\gytime\website\functions\end_coffee_time.php on line 31
+[20-May-2016 19:14:01 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 133
+[27-May-2016 09:33:42 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:33:42 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 142
+[27-May-2016 09:39:15 Europe/London] PHP Parse error:  syntax error, unexpected '{' in D:\sites\gytime\website\functions\end_work_time.php on line 139
+[27-May-2016 09:39:28 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:39:28 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 145
+[27-May-2016 09:43:16 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:43:16 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 120
+[27-May-2016 09:43:16 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 145
+[27-May-2016 09:43:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:43:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 145
+[27-May-2016 09:43:55 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:43:55 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 145
+[27-May-2016 09:53:27 Europe/London] PHP Notice:  Undefined variable: worked_time_add in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[27-May-2016 09:53:27 Europe/London] PHP Notice:  Undefined variable: worked_time_add in D:\sites\gytime\website\functions\end_work_time.php on line 132
+[27-May-2016 09:57:29 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 09:57:29 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 10:15:45 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 142
+[27-May-2016 10:15:45 Europe/London] PHP Fatal error:  Unsupported operand types in D:\sites\gytime\website\functions\end_work_time.php on line 88
+[27-May-2016 10:20:03 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 142
+[27-May-2016 10:20:03 Europe/London] PHP Fatal error:  Unsupported operand types in D:\sites\gytime\website\functions\end_work_time.php on line 88
+[27-May-2016 10:26:03 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 152
+[27-May-2016 10:26:03 Europe/London] PHP Fatal error:  Unsupported operand types in D:\sites\gytime\website\functions\end_work_time.php on line 88
+[27-May-2016 10:29:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 10:29:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 174
+[27-May-2016 10:35:05 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 187
+[27-May-2016 10:35:05 Europe/London] PHP Warning:  explode() expects parameter 2 to be string, array given in D:\sites\gytime\website\functions\end_work_time.php on line 189
+[27-May-2016 10:36:02 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\end_work_time.php on line 187
+[27-May-2016 10:37:05 Europe/London] PHP Notice:  Use of undefined constant h - assumed 'h' in D:\sites\gytime\website\functions\end_work_time.php on line 187
+[27-May-2016 10:37:05 Europe/London] PHP Notice:  Use of undefined constant m - assumed 'm' in D:\sites\gytime\website\functions\end_work_time.php on line 188
+[27-May-2016 10:50:03 Europe/London] PHP Parse error:  syntax error, unexpected 'date_create_from_format' (T_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 190
+[27-May-2016 10:51:11 Europe/London] PHP Parse error:  syntax error, unexpected '"G"' (T_CONSTANT_ENCAPSED_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 190
+[27-May-2016 10:53:02 Europe/London] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 192
+[27-May-2016 10:54:21 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 192
+[27-May-2016 11:11:15 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 11:11:15 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 11:11:37 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 11:11:37 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 11:12:24 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 11:12:24 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 11:15:09 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 11:15:09 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 11:16:54 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 11:16:54 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 13:14:37 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 13:14:37 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 13:24:01 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in D:\sites\gytime\website\functions\start_work_time.php on line 69
+[27-May-2016 13:25:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 13:25:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 13:26:32 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 13:26:32 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 13:39:22 Europe/London] PHP Notice:  Undefined variable: start_timer_from in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:39:58 Europe/London] PHP Notice:  Undefined variable: start_timer_from in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:40:34 Europe/London] PHP Notice:  A non well formed numeric value encountered in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:40:54 Europe/London] PHP Notice:  A non well formed numeric value encountered in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:41:13 Europe/London] PHP Parse error:  syntax error, unexpected ':' in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:41:24 Europe/London] PHP Notice:  A non well formed numeric value encountered in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:46:29 Europe/London] PHP Notice:  Undefined variable: start_timer_from in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:46:42 Europe/London] PHP Notice:  A non well formed numeric value encountered in D:\sites\gytime\website\functions\start_work_time.php on line 72
+[27-May-2016 13:48:47 Europe/London] PHP Notice:  A non well formed numeric value encountered in D:\sites\gytime\website\functions\start_work_time.php on line 74
+[27-May-2016 13:56:58 Europe/London] PHP Parse error:  syntax error, unexpected '!' in D:\sites\gytime\website\functions\start_work_time.php on line 63
+[27-May-2016 14:02:39 Europe/London] PHP Notice:  Undefined variable: sec2 in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[27-May-2016 14:02:39 Europe/London] PHP Notice:  Undefined variable: sec in D:\sites\gytime\website\functions\start_work_time.php on line 66
+[27-May-2016 14:05:20 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:05:20 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:05:34 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:05:34 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:05:49 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:05:49 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:05:58 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:05:58 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:07:24 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:07:24 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:07:30 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:07:30 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:10:21 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:10:21 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:10:45 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:10:45 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:14:34 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:14:34 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:14:40 Europe/London] PHP Warning:  Division by zero in D:\sites\gytime\website\functions\start_work_time.php on line 64
+[27-May-2016 14:17:52 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:17:52 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:25:18 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:25:18 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:25:28 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:25:28 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:25:45 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:25:45 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:25:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:25:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:28:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:28:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:29:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:29:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:31:13 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:31:13 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:34:44 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:34:44 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:37:47 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:37:47 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:39:14 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:39:14 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:39:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:39:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 14:40:33 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:40:33 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[27-May-2016 14:57:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 14:57:59 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[27-May-2016 15:06:55 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[27-May-2016 15:06:55 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[02-Jun-2016 19:39:17 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[02-Jun-2016 19:39:17 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 210
+[02-Jun-2016 19:41:52 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[02-Jun-2016 19:41:52 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[02-Jun-2016 19:46:11 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[02-Jun-2016 19:46:11 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[10-Jun-2016 10:14:54 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[10-Jun-2016 10:14:54 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[10-Jun-2016 11:09:11 Europe/London] PHP Warning:  Cannot use a scalar value as an array in D:\sites\gytime\website\functions\end_work_time.php on line 189
+[10-Jun-2016 11:09:11 Europe/London] PHP Warning:  Cannot use a scalar value as an array in D:\sites\gytime\website\functions\end_work_time.php on line 190
+[10-Jun-2016 11:09:11 Europe/London] PHP Warning:  Cannot use a scalar value as an array in D:\sites\gytime\website\functions\end_work_time.php on line 197
+[10-Jun-2016 11:09:11 Europe/London] PHP Warning:  Cannot use a scalar value as an array in D:\sites\gytime\website\functions\end_work_time.php on line 198
+[10-Jun-2016 13:10:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[10-Jun-2016 13:10:53 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[10-Jun-2016 13:27:14 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[10-Jun-2016 13:27:14 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[10-Jun-2016 13:39:11 Europe/London] PHP Parse error:  syntax error, unexpected '$asd' (T_VARIABLE) in D:\sites\gytime\website\functions\end_work_time.php on line 138
+[10-Jun-2016 14:05:25 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[10-Jun-2016 14:05:25 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 215
+[10-Jun-2016 14:05:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[10-Jun-2016 14:05:40 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 215
+[17-Jun-2016 09:36:47 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 102
+[17-Jun-2016 09:36:47 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 215
+[17-Jun-2016 11:02:55 Europe/London] PHP Parse error:  syntax error, unexpected '$worked_time' (T_VARIABLE) in D:\sites\gytime\website\functions\start_work_time.php on line 67
+[17-Jun-2016 11:03:26 Europe/London] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in D:\sites\gytime\website\functions\end_work_time.php on line 114
+[17-Jun-2016 11:04:57 Europe/London] PHP Parse error:  syntax error, unexpected '$worked_time' (T_VARIABLE) in D:\sites\gytime\website\functions\start_work_time.php on line 67
+[17-Jun-2016 11:05:01 Europe/London] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in D:\sites\gytime\website\functions\end_work_time.php on line 114
+[17-Jun-2016 11:13:48 Europe/London] PHP Parse error:  syntax error, unexpected '$worked_time' (T_VARIABLE) in D:\sites\gytime\website\functions\start_work_time.php on line 67
+[17-Jun-2016 11:14:53 Europe/London] PHP Notice:  Trying to get property of non-object in D:\sites\gytime\website\functions\start_work_time.php on line 34
+[17-Jun-2016 11:21:27 Europe/London] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in D:\sites\gytime\website\functions\end_work_time.php on line 114
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: start_date in D:\sites\gytime\website\functions\end_work_time.php on line 39
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: start_time in D:\sites\gytime\website\functions\end_work_time.php on line 62
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: end_time in D:\sites\gytime\website\functions\end_work_time.php on line 67
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: start_time in D:\sites\gytime\website\functions\end_work_time.php on line 69
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: end_time in D:\sites\gytime\website\functions\end_work_time.php on line 70
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 106
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 108
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 11:23:11 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 221
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined variable: start_time in D:\sites\gytime\website\functions\end_work_time.php on line 62
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined variable: end_time in D:\sites\gytime\website\functions\end_work_time.php on line 67
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined variable: start_time in D:\sites\gytime\website\functions\end_work_time.php on line 69
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined variable: end_time in D:\sites\gytime\website\functions\end_work_time.php on line 70
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 106
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined offset: 1 in D:\sites\gytime\website\functions\end_work_time.php on line 108
+[17-Jun-2016 11:26:06 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 11:29:12 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 124
+[17-Jun-2016 11:35:17 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 11:35:17 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 11:58:36 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 11:58:36 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:08:39 Europe/London] PHP Parse error:  syntax error, unexpected ';' in D:\sites\gytime\website\functions\start_work_time.php on line 80
+[17-Jun-2016 12:09:31 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:10:47 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:10:47 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:11:07 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:13:14 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:15:56 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:15:56 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:16:00 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:17:25 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:17:25 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:20:20 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:20:21 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:20:21 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:20:24 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 73
+[17-Jun-2016 12:21:37 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:21:37 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:21:40 Europe/London] PHP Parse error:  syntax error, unexpected '"<hr>"' (T_CONSTANT_ENCAPSED_STRING) in D:\sites\gytime\website\functions\start_work_time.php on line 75
+[17-Jun-2016 12:21:57 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 77
+[17-Jun-2016 12:22:54 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 77
+[17-Jun-2016 12:23:26 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 77
+[17-Jun-2016 12:27:52 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:27:52 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:27:53 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 77
+[17-Jun-2016 12:28:56 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:28:56 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:28:56 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:32:15 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:32:15 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:32:29 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:33:43 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:33:43 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:33:44 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:34:25 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:34:25 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:34:44 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:34:59 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:34:59 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:00 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:35:13 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:13 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:14 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 71
+[17-Jun-2016 12:35:34 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:34 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:34 Europe/London] PHP Notice:  Array to string conversion in D:\sites\gytime\website\functions\start_work_time.php on line 70
+[17-Jun-2016 12:35:47 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:35:47 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:38:32 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:38:32 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:39:01 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 12:39:01 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 13:27:32 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\sites\gytime\website\functions\start_work_time.php on line 78
+[17-Jun-2016 13:31:36 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 13:31:36 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 13:37:07 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[17-Jun-2016 13:37:07 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[24-Jun-2016 10:01:11 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_hr in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[24-Jun-2016 10:01:11 Europe/London] PHP Notice:  Undefined variable: worked_time_in_db_min in D:\sites\gytime\website\functions\end_work_time.php on line 126
+[24-Jun-2016 10:11:39 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 132
+[24-Jun-2016 10:14:02 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 130
+[24-Jun-2016 10:14:02 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 131
+[24-Jun-2016 10:17:17 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 138
+[24-Jun-2016 10:17:17 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 139
+[24-Jun-2016 10:40:03 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 153
+[24-Jun-2016 10:40:03 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 154
+[24-Jun-2016 10:42:04 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 153
+[24-Jun-2016 10:42:04 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 154
+[24-Jun-2016 10:44:14 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 153
+[24-Jun-2016 10:44:14 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 154
+[24-Jun-2016 10:46:52 Europe/London] PHP Parse error:  syntax error, unexpected '":"' (T_CONSTANT_ENCAPSED_STRING) in D:\sites\gytime\website\functions\end_work_time.php on line 18
+[24-Jun-2016 10:48:24 Europe/London] PHP Notice:  Undefined variable: worked_time_from_db in D:\sites\gytime\website\functions\end_work_time.php on line 155
+[24-Jun-2016 10:48:24 Europe/London] PHP Notice:  Undefined variable: worked_time_to_add in D:\sites\gytime\website\functions\end_work_time.php on line 156

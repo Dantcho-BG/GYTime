@@ -1,0 +1,3 @@
+0 - Clocked in
+1 - Un clocked
+2 - Auto un clocked
