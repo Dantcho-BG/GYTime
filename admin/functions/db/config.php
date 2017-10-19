@@ -7,8 +7,8 @@ $place = "Work-Experience";
 if ($place == "Work-Experience") {
 
 $mysql_server = "localhost";
-$server_username = "gytimedb";
-$server_password = "gytime8977";
+$server_username = "root";
+$server_password = "";
 $db_name = "gytimedb";
 
 }
