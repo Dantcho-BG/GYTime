@@ -6,7 +6,9 @@ I abondoned the project after I finished my work experience.
 
 ## The pupose of the project
 
-The purpose of this poject was to have a work hours timer.<br>
+The purpose of this poject was a work hours timer.<br>
+
+### Progress:
 
 What had to be done:
 - Simple Auth System
@@ -16,7 +18,6 @@ What had to be done:
   - Control the users of the website
   - Control how long the brakes can be
   - Control how much hours shoud be the minimum for recorded work time
-  
 What was done:
 - Simple Auth System
 - Functionality to start recording time when checking in to work
