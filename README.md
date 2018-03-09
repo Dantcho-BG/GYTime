@@ -1,8 +1,6 @@
 # GYTime
 
 This is my first project which I made with php, html and css.
-I started it abount 2 years ago and worked on it for 2 to 5 months.
-I abandoned the project after I finished my work experience.
 
 ## The pupose of the project
 
