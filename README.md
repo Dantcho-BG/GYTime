@@ -1,6 +1,6 @@
 # GYTime
 
-This is my first project which I made with php, html and css.
+This is my first project which I made with PHP, HTML, CSS and JS.
 
 ## The pupose of the project
 
