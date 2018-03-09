@@ -1,24 +1,20 @@
 # GYTime
 
-This is my first project with php, html and css. (The other code is not written by me)
+This is my first project which I made with php, html and css.
 I started it abount 2 years ago and worked on it for 2 to 5 months.
-I abondoned the project after I finished my work experience.
+I abandoned the project after I finished my work experience.
 
 ## The pupose of the project
 
-The purpose of this poject was a work hours timer.<br>
+It was supposed to count the amount of hours a employee has worked or how long his break was.<br>
 
-### What had to be done:
+### Features:
 
-- Simple Auth System
-- Functionality to start recording time when checking in to work
-- Functionality to stop recording time and take a brake
-- Dashboard:
-  - Control the users of the website
-  - Control how long the brakes can be
-  - Control how much hours shoud be the minimum for recorded work time
-  
-### What was done:
+- [x] Simple Auth System
+- [x] Work timer
+- [x] Break timer
+- [ ] Statistics
 
-- Simple Auth System
-- Functionality to start recording time when checking in to work
+### Abondoned
+
+I abandoned this project because the source files were lost (this repository is from a backup) and there is no point in working on it since ther are so many issues with it.
